@@ -10,7 +10,7 @@ I.   [Project Overview             ](#i-project-overview)
 II.  [Executive Summary  ](#ii-executive-summary)
 1.   [Goals:                        ](#1-goals)
 2.   [Key Findings:                 ](#2-key-findings)
-3.   [Recommendations:              ](#1-recommendations)
+3.   [Recommendations:              ](#3-recommendations)
 
 III. [Project                      ](#iii-project)
 1.   [Questions                    ](#1-questions)
