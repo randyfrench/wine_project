@@ -31,6 +31,8 @@ VI.   [Modules                      ](#vi-modules)
 
 VII.  [Project Reproduction         ](#vii-project-reproduction)
 
+VIII. [Project Summary              ](#viii-project-summary)
+
 <br>
 
 <br>
@@ -175,9 +177,14 @@ Following acquisition and preparation of the initial data frame from the UCI Mac
 ### VII. Project Reproduction
 ---
 
-To recreate and reproduce results of this project, you will need to download the ataset through UCI's Machine Learning Repository  at https://archive-beta.ics.uci.edu/ml/datasets/wine
+To recreate and reproduce results of this project, you will need to download the ataset through UCI's Machine Learning Repository  at https://archive-beta.ics.uci.edu/ml/datasets/wine then copy the repo and run it.
 
-then copy the repo and run it.
+### VIII. Project Summary
+-----
+
+This was a project that I was able to pick for myself. Wine classification. I used a dataset from the UCI Machine Learning Repository. Using chemical analysis to determine the origin of wines. There is so much data out in the public domain to evaluate, that I had a hard time trying to choose what to pick. However, I do like wine, so thought it would be a good project to undertake. I only had a small amount of time to pick and move on and this was the one that I found. Of the four supervised machine learning models I tested, the Logistic Regression Model performed the best. Take a look and see what you think.
+
+I look forward to learning more as I move forward with my time at Codeup.
 
 [[Return to Top]](#classification-of-wine)
 
